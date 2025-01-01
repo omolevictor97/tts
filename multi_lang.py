@@ -19,6 +19,8 @@ from nltk.cluster.util import cosine_distance
 from collections import defaultdict
 import networkx as nx
 
+nltk.download('punkt_tab')
+
 
 class TextSummarizer:
     def __init__(self):
