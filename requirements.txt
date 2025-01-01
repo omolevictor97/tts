@@ -10,3 +10,4 @@ transformers
 ipykernel
 PyPDF2
 networkx
+scipy
