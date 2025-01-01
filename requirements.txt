@@ -1,0 +1,12 @@
+nltk
+num2words
+pdfplumber
+pytesseract
+pillow
+langdetect
+googletrans==3.1.0a0
+gTTS
+transformers
+ipykernel
+PyPDF2
+networkx
